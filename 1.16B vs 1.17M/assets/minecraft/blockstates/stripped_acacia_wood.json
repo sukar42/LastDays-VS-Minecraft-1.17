@@ -1,9 +1,16 @@
 {
-	"variants": {
-		"": [
-			{ "model": "block/stripped_acacia/stripped_acacia_wood1", "weight": 1 },   
-			{ "model": "block/stripped_acacia/stripped_acacia_wood2", "weight": 1 },   
-			{ "model": "block/stripped_acacia/stripped_acacia_wood3", "weight": 1 }
-		]
-	}
+  "variants": {
+    "axis=x": {
+      "model": "minecraft:block/stripped_acacia_wood",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "minecraft:block/stripped_acacia_wood"
+    },
+    "axis=z": {
+      "model": "minecraft:block/stripped_acacia_wood",
+      "x": 90
+    }
+  }
 }
