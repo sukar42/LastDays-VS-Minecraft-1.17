@@ -1,5 +1,7 @@
 {
-    "variants": {
-        "": [ { "model": "block/daisy", "weight": 3 }, { "model": "block/daisy1", "weight": 3 } ]
+  "variants": {
+    "": {
+      "model": "minecraft:block/oxeye_daisy"
     }
+  }
 }

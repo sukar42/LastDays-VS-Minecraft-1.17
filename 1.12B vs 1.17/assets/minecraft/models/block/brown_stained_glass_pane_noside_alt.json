@@ -1,6 +1,6 @@
 {
-    "parent": "block/pane_noside_alt",
-    "textures": {
-        "pane": "block/glass_brown_pane"
-    }
+  "parent": "minecraft:block/template_glass_pane_noside_alt",
+  "textures": {
+    "pane": "minecraft:block/brown_stained_glass"
+  }
 }

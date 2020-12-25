@@ -1,7 +1,7 @@
 {
-    "parent": "block/pane_post",
-    "textures": {
-        "edge": "block/brown_stained_glass_pane_top",
-        "pane": "block/glass_brown_pane"
-    }
+  "parent": "minecraft:block/template_glass_pane_post",
+  "textures": {
+    "pane": "minecraft:block/brown_stained_glass",
+    "edge": "minecraft:block/brown_stained_glass_pane_top"
+  }
 }

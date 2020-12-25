@@ -1,5 +1,7 @@
 {
-    "variants": {
-        "": { "model": "block/carpet_cyan" }
+  "variants": {
+    "": {
+      "model": "minecraft:block/cyan_carpet"
     }
+  }
 }
