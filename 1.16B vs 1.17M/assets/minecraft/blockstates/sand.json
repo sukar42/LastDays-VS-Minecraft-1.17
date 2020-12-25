@@ -1,10 +1,21 @@
 {
-	"variants": {
-		"": [
-			{ "model": "block/sand/sand1", "weight": 1 },   
-			{ "model": "block/sand/sand2", "weight": 1 },   
-			{ "model": "block/sand/sand3", "weight": 1 },   
-			{ "model": "block/sand/sand4", "weight": 1 }
-		]
-	}
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/sand"
+      },
+      {
+        "model": "minecraft:block/sand",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/sand",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/sand",
+        "y": 270
+      }
+    ]
+  }
 }
