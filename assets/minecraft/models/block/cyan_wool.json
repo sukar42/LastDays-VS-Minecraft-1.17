@@ -1,6 +1,7 @@
 {
-  "parent": "minecraft:block/cube_all",
-  "textures": {
-    "all": "minecraft:block/cyan_wool"
-  }
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "blocks/wool_cyan_top",
+        "side": "blocks/wool_colored_cyan"
+    }
 }

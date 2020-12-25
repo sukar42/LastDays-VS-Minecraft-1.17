@@ -1,7 +1,8 @@
 {
-  "variants": {
-    "": {
-      "model": "minecraft:block/andesite"
+    "variants": {
+        "normal": [ 
+            { "model": "andesite", "weight": 20 },
+            { "model": "andesite1", "weight": 1 }
+        ]
     }
-  }
 }

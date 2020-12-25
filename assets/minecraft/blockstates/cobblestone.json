@@ -1,7 +1,5 @@
 {
-  "variants": {
-    "": {
-      "model": "minecraft:block/cobblestone"
+    "variants": {
+        "normal": [ { "model": "cobblestone", "weight": 25 }, { "model": "cobblestone1", "weight": 10 } ]
     }
-  }
 }
