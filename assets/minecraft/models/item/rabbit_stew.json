@@ -1,6 +1,14 @@
 {
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "minecraft:item/rabbit_stew"
-  }
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/rabbit_stew/rabbit_stew"
+    },
+	"overrides": [
+		{
+			"predicate":{
+				"custom_model_data": 1
+			},
+			"model": "item/rabbit_stew/military_big"
+		}
+	]
 }

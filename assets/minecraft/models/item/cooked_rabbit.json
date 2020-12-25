@@ -1,6 +1,14 @@
 {
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "minecraft:item/cooked_rabbit"
-  }
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/cooked_rabbit/cooked_rabbit"
+    },
+	"overrides": [
+		{
+			"predicate":{
+				"custom_model_data": 1
+			},
+			"model": "item/cooked_rabbit/military"
+		}
+	]
 }

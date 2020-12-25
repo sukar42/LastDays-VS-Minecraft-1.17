@@ -1,6 +1,21 @@
 {
-  "parent": "minecraft:block/template_wall_post",
-  "textures": {
-    "wall": "minecraft:block/diorite"
-  }
+	"textures": {
+        "wall": "block/diorite_post_side",
+        "top": "block/diorite_post_top",
+		"particle": "block/diorite"
+    },
+    "elements": [
+        {   "from": [ 4, -0.01, 4 ],
+            "to": [ 12, 16.01, 12 ],
+            "faces": {
+                "down":  { "texture": "#top", "cullface": "down" },
+                "up":    { "texture": "#top", "cullface": "up" },
+                "north": { "texture": "#wall" },
+                "south": { "texture": "#wall" },
+                "west":  { "texture": "#wall" },
+                "east":  { "texture": "#wall" }
+            },
+            "__comment": "Center post"
+        }
+    ]
 }

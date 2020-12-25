@@ -1,6 +1,20 @@
 {
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "minecraft:item/diamond_leggings"
-  }
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/diamond_armor/diamond_leggings"
+    },
+	"overrides": [
+		{
+			"predicate":{
+				"damage": 0.33
+			},
+			"model": "item/diamond_armor/diamond_leggings_damaged"
+		},
+		{
+			"predicate":{
+				"damage": 0.67
+			},
+			"model": "item/diamond_armor/diamond_leggings_rust"
+		}
+	]
 }

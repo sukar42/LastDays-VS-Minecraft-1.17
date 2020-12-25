@@ -1,20 +1,12 @@
 {
-  "variants": {
-    "": [
-      {
-        "model": "minecraft:block/stone"
-      },
-      {
-        "model": "minecraft:block/stone_mirrored"
-      },
-      {
-        "model": "minecraft:block/stone",
-        "y": 180
-      },
-      {
-        "model": "minecraft:block/stone_mirrored",
-        "y": 180
-      }
-    ]
-  }
+	"variants": {
+		"": [
+			{ "model": "block/stone/stone1", "weight": 300 },
+			{ "model": "block/stone/stone2", "weight": 5 },
+			{ "model": "block/stone/stone3", "weight": 6 },
+			{ "model": "block/stone/stone4", "weight": 4 },
+			{ "model": "block/stone/stone5", "weight": 4 },
+			{ "model": "block/stone/stone6", "weight": 1 }
+		]
+	}
 }

@@ -1,6 +1,7 @@
 {
-  "parent": "minecraft:block/cube_all",
-  "textures": {
-    "all": "minecraft:block/gold_ore"
-  }
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "block/gold_ore_top",
+        "side": "block/gold_ore_side"
+    }
 }
