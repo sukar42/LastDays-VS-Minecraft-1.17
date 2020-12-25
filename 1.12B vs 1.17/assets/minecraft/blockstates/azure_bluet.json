@@ -1,7 +1,5 @@
 {
-  "variants": {
-    "": {
-      "model": "minecraft:block/azure_bluet"
+    "variants": {
+        "": [ { "model": "block/houstonia", "weight": 3 }, { "model": "block/houstonia1", "weight": 3 } ]
     }
-  }
 }

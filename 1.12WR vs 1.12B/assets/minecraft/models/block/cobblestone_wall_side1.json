@@ -1,6 +1,6 @@
 {
     "parent": "block/wall_side",
     "textures": {
-        "wall": "block/cobblestone1"
+        "wall": "blocks/cobblestone1"
     }
 }

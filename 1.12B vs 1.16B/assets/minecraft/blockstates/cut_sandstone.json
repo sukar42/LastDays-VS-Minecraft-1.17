@@ -1,13 +1,5 @@
 {
-	"variants": {
-		"": [
-			{ "model": "block/cut_sandstone/cut_sandstone1", "weight": 1 },   
-			{ "model": "block/cut_sandstone/cut_sandstone2", "weight": 1 },
-			{ "model": "block/cut_sandstone/cut_sandstone3", "weight": 1 },   
-			{ "model": "block/cut_sandstone/cut_sandstone4", "weight": 1 },
-			{ "model": "block/cut_sandstone/cut_sandstone5", "weight": 1 },   
-			{ "model": "block/cut_sandstone/cut_sandstone6", "weight": 1 },
-			{ "model": "block/cut_sandstone/cut_sandstone7", "weight": 1 }
-		]
-	}
+    "variants": {
+        "": [ { "model": "block/sandstone_smooth", "weight": 5 }, { "model": "block/sandstone_smooth1", "weight": 5 }, { "model": "block/sandstone_smooth2", "weight": 5 }, { "model": "block/sandstone_smooth3", "weight": 5 }, { "model": "block/sandstone_smooth4", "weight": 5 }, { "model": "block/sandstone_smooth5", "weight": 5 }, { "model": "block/sandstone_smooth6", "weight": 5 }, { "model": "block/sandstone_smooth7", "weight": 5 } ]
+    }
 }

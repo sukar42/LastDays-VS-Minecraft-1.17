@@ -1,9 +1,5 @@
 {
     "variants": {
-        "": [
-			{ "model": "block/polished_granite/polished_granite1", "weight": 30 },
-			{ "model": "block/polished_granite/polished_granite2", "weight": 5 },
-			{ "model": "block/polished_granite/polished_granite3", "weight": 5 }
-		]
+        "": [ { "model": "block/granite_smooth", "weight": 35 }, { "model": "block/granite_smooth1", "weight": 5 }, { "model": "block/granite_smooth2", "weight": 5 } ]
     }
 }

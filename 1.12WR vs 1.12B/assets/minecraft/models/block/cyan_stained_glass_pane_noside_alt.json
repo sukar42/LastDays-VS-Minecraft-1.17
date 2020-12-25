@@ -1,6 +1,6 @@
 {
     "parent": "block/pane_noside_alt",
     "textures": {
-        "pane": "block/cyan_stained_glass_pane"
+        "pane": "blocks/cyan_stained_glass_pane"
     }
 }
