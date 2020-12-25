@@ -1,4 +1,5 @@
-﻿language.name=LAST DAYS
+
+language.name=LAST DAYS
 language.region=ld
 language.code=en_ld
 
@@ -581,123 +582,6 @@ book.generation.3=Doctored
 
 merchant.deprecated=Trade something else to unlock!
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-\
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 tile.air.name=Air
 tile.barrier.name=Barrier
 tile.stone.stone.name=Metal Plating
@@ -753,23 +637,6 @@ tile.log.birch.name=Scrap Shack V2 Stilt
 tile.log.jungle.name=Antenna
 tile.log.acacia.name=Radio Antenna
 tile.log.big_oak.name=Barrage Umbrella Supports
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Ante
 tile.leaves.name=Scrap Shack Metal
 tile.leaves.oak.name=Scrap Shack Metal
 tile.leaves.spruce.name=Spruce Leaves

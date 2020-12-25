@@ -1,5 +1,5 @@
 {
     "variants": {
-        "": [ { "model": "block/poppy", "weight": 3 }, { "model": "block/poppy1", "weight": 3 }, { "model": "block/poppy2", "weight": 3 } ]
+        "normal": [ { "model": "poppy", "weight": 3 }, { "model": "poppy1", "weight": 3 }, { "model": "poppy2", "weight": 3 } ]
     }
 }

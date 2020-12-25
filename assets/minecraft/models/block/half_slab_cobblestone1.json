@@ -1,8 +1,8 @@
 {
     "parent": "block/half_slab",
     "textures": {
-        "bottom": "block/cobblestone1",
-        "top": "block/cobblestone1",
-        "side": "block/cobblestone1"
+        "bottom": "blocks/cobblestone1",
+        "top": "blocks/cobblestone1",
+        "side": "blocks/cobblestone1"
     }
 }
