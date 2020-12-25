@@ -1,8 +1,7 @@
 {
-    "parent": "block/cube_bottom_top",
-    "textures": {
-        "top": "block/melon_top",
-        "side": "block/melon_side",
-        "bottom": "block/melon_bottom"
-    }
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "minecraft:block/melon_top",
+    "side": "minecraft:block/melon_side"
+  }
 }
